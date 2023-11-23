@@ -13,6 +13,7 @@ require (
 	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.44.0
 	github.com/prometheus/exporter-toolkit v0.10.0
+	go.uber.org/automaxprocs v1.5.3
 	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.12.0
 	google.golang.org/api v0.143.0
